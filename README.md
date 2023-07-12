@@ -1,2 +1,2 @@
-# Data-Science-Masters-PW-Skills-Assignments
+# Physics-wallah-Data-science-Assignments
 data science masters certification course PW skills assignments
